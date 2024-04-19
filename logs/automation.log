@@ -1,0 +1,6 @@
+16:50:21.404 [main] INFO  stepsDefinitions.AccessPageStep - Accessing search page
+16:50:21.412 [main] INFO  stepsDefinitions.AccessPageStep - Filling out the form
+18:10:59.985 [main] INFO  stepsDefinitions.AccessPageStep - Accessing search page
+18:10:59.988 [main] INFO  stepsDefinitions.AccessPageStep - Filling out the form
+18:14:13.424 [main] INFO  stepsDefinitions.AccessPageStep - Accessing search page
+18:14:13.427 [main] INFO  stepsDefinitions.AccessPageStep - Filling out the form
